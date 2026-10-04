@@ -1,0 +1,18 @@
+# Pliki wykonywalne i kompilacji C++
+*.exe
+*.o
+*.obj
+*.out
+*.app
+
+# Środowiska programistyczne i kompilatory
+.vscode/
+.vs/
+.idea/
+bin/
+build/
+Debug/
+Release/
+
+# Pliki tymczasowe i logi
+*.log
